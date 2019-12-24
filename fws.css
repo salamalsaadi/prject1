@@ -1,0 +1,170 @@
+.part1 
+{
+    background-image: url(img1.PNG);
+    height: 550px;
+    background-size: cover;
+    position: relative;
+}
+.part1 h1
+{
+    color: whitesmoke;
+    font-size: 20px;
+    position: absolute;
+    left: 250px;
+    top: 60px;
+}
+.part1  nav ul
+{
+    text-align: right;
+    padding: 50px;  
+}
+
+.part1  nav ul li
+{
+ display: inline-block;
+ color: whitesmoke;
+ font-family: 'Exo 2', sans-serif;
+ margin-right: 50px;
+ margin-top: 30px;
+}
+.part1 h2
+{
+    font-size: 30px;
+    color: whitesmoke;
+    position: absolute;
+    left: 250px;
+    top: 250px;
+    font-family: 'Montserrat', sans-serif;
+}
+.article1
+{
+    position: absolute;
+    top: 450px;
+    left: 250px;
+}
+.article2
+{
+    position: absolute;
+    top: 450px;
+    left: 550px;
+}
+
+.article3
+{
+    position: absolute;
+    top: 450px;
+    left: 850px;
+}
+.article4
+{
+    background-color: floralwhite;
+    height: 2010px;
+}
+.article4 h1
+{
+    font-size: 50px;
+    position: absolute;
+    left: 250px;
+    top: 900px;
+    color: dodgerblue;
+}
+.article4 p 
+{
+    position: absolute;
+    left: 250px;
+    top: 980px;
+    color: darkgray;
+}
+.article4 img
+{
+    position: absolute;
+    left: 710px;
+    top: 860px;
+}
+.article4 h2
+{
+    font-size: 50px;
+    position: absolute;
+    left: 250px;
+    top: 1250px;
+    color: dodgerblue;
+    
+}
+.article5 
+{
+    position: absolute;
+    left: 250px;
+    top: 1350px; 
+}
+.article6 h1 
+{
+    font-size: 50px;
+    position: absolute;
+    left: 250px;
+    top: 1750px;
+    color: dodgerblue;
+}
+.article6 h2
+{
+    font-size: 25px;
+    position: absolute;
+    left: 250px;
+    top: 1840px;
+    color: dimgray;
+}
+.article6 p
+{
+    font-size: 15px;
+    position: absolute;
+    left: 250px;
+    top: 1875px;
+    color: darkgray;
+}
+.article6 h3
+{
+    font-size: 25px;
+    position: absolute;
+    left: 250px;
+    top: 1980px;
+    color: dimgray;
+}
+.article6 p1
+{
+    font-size: 15px;
+    position: absolute;
+    left: 250px;
+    top: 2015px;
+    color: darkgray;   
+}
+.article6 h4
+{
+    font-size: 25px;
+    position: absolute;
+    left: 800px;
+    top: 1840px;
+    color: dimgray;
+}
+.article6 p2
+{
+    font-size: 15px;
+    position: absolute;
+    left: 800px;
+    top: 1875px;
+    color: darkgray;
+}
+.article6 h5
+{
+    font-size: 25px;
+    position: absolute;
+    left: 800px;
+    top: 1980px;
+    color: dimgray;
+}
+.article6 p3
+{
+    font-size: 15px;
+    position: absolute;
+    left: 800px;
+    top: 2015px;
+    color: darkgray;   
+}
